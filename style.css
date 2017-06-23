@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+	font-family: 'Sanchez', serif;
+}
+#header{
+	background:#f62459;
+	color: #fff;
+}
+#nav{
+	background:#f62459;
+	font-weight: bold;
+	font-size: 120%;
+
+}
+#nav li{
+	margin-left: 3px;
+}
+footer{
+	background:#f62459;
+	color: white;
+	margin: 0 auto;
+}
+footer> a{
+	text-decoration: none;
+}
+#copyright_text{
+	font-weight: 400;
+	padding-top: 20px;
+	float: left;
+	line-height: 1.5em;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	text-align: center;
+}
+.jumbotron{
+	padding: 80px 60px;
+	margin: 0px;
+}
+.jumbotron p{
+	font-family: 'Courgette', cursive;
+}
+.jumbotron h1{
+	font-family: 'Vampiro One', cursive;
+}
